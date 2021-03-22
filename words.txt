@@ -3,3 +3,4 @@ denes
 e
 nedela
 pozdrav
+zbor
